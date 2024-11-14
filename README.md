@@ -1,17 +1,19 @@
-## Hi there 👋
+#### 👋 ¡Hola! Soy Enmanuel Feliciano Lemos
 
+ Desarrollador web junior en constante aprendizaje y apasionado por el desarrollo de software. con una base en tecnologías fundamentales como **html, css, tailwind, javascript, mysql, react, y typescript**, busco oportunidades para fortalecer mis habilidades y profundizar en el campo de desarrollo web.
 
-**EnmanuelFL/EnmanuelFL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🧑‍💻 Sobre mí:
 
-Here are some ideas to get you started:
+- 🚀 experiencia: llevo 4 meses explorando el desarrollo web y familiarizándome con sus tecnologías clave.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+- 🌱 en aprendizaje: continuamente estoy mejorando en desarrollo web y expandiendo mis conocimientos, desde la creación de interfaces hasta la gestión de bases de datos y pruebas de software.
 
+- 🎯 objetivo: quiero consolidar mi perfil técnico y contribuir en proyectos significativos.
+
+#### 🛠️ Tecnologías y Herramientas:
+- frontend: html, css, tailwind, javascript, react
+- backend: mysql
+- testing: jest, supertest
+- lenguajes: typescript, javascript
+
+###### **¡Gracias por visitar mi perfil! siempre estoy abierto a nuevas oportunidades y desafíos en los que pueda aprender y aportar. no dudes en contactarme si quieres colaborar en algún proyecto o simplemente conectarte.**
